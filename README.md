@@ -6,7 +6,7 @@ ArtCraft team, served from GitHub Pages.
 - **Editor:** https://hapnes-dev.github.io/VectorCraft/app/
 - **This page:** https://hapnes-dev.github.io/VectorCraft/
 
-Currently: VectorCraft 0.24.0.
+Currently: VectorCraft 0.24.1.
 
 Everything runs in the browser: nothing opened or drawn in the editor is sent anywhere.
 
